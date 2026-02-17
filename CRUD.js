@@ -357,7 +357,7 @@ db.users.insertMany([
 
 db.lessons.insertMany([
   {
-    courseId: ObjectId("69931a4dd36ca2372b628cac"),  // ✅ correct id
+    courseId: ObjectId("69931a4dd36ca2372b628cac"),  
     title: "Introduction to MERN Stack",
     videoUrl: "https://videos.elearn.com/mern/intro.mp4",
     duration: 15,
